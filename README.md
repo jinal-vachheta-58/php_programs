@@ -1,35 +1,33 @@
-# php_programs
-______________________________________________________________________________________
--- What is PHP?
+# PHP Fundamentals
 
+A collection of beginner to intermediate PHP programs covering core concepts,
+form handling, MySQL database connectivity, CRUD operations, and validation.
 
-PHP is an acronym for "PHP: Hypertext Preprocessor"
-PHP is a widely-used, open source scripting language
-PHP scripts are executed on the server
-PHP is free to download and use
-PHP is an amazing and popular language!
-It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)!
-It is deep enough to run large social networks!
-It is also easy enough to be a beginner's first server side language!
-______________________________________________________________________________________
--- What You Should Already Know
+This repository was created while learning PHP and demonstrates practical examples
+of server-side programming.
 
-HTML
-CSS
-JavaScript
-______________________________________________________________________________________
--- What is a PHP File?
+## Topics Covered
 
-PHP files can contain text, HTML, CSS, JavaScript, and PHP code
-PHP code is executed on the server, and the result is returned to the browser as plain HTML
-PHP files have extension ".php"
-______________________________________________________________________________________
--- What Can PHP Do?
+✔ PHP Basics
+✔ Variables
+✔ Data Types
+✔ Operators
+✔ Conditional Statements
+✔ Loops
+✔ User Defined Functions
+✔ Arrays
+✔ Forms
+✔ Form Validation
+✔ MySQL Connection
+✔ Database Creation
+✔ Table Creation
+✔ Insert Records
+✔ Display Records
 
-PHP can generate dynamic page content
-PHP can create, open, read, write, delete, and close files on the server
-PHP can collect form data
-PHP can send and receive cookies
-PHP can add, delete, modify data in your database
-PHP can be used to control user-access
-PHP can encrypt data
+## Technologies
+
+- PHP
+- HTML
+- MySQL
+- XAMPP
+
